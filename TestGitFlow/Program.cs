@@ -9,6 +9,7 @@ namespace TestGitFlow
     class Program
     {
         int a = 10;
+        string name = "somanath";
         static void Main(string[] args)
         {
             
