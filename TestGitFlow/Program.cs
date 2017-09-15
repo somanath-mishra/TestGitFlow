@@ -8,8 +8,10 @@ namespace TestGitFlow
 {
     class Program
     {
+        int a = 10;
         static void Main(string[] args)
         {
+            
         }
     }
 }
