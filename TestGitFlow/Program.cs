@@ -8,9 +8,11 @@ namespace TestGitFlow
 {
     class Program
     {
-        int a = 10;
+      public static int a = 10;
         static void Main(string[] args)
         {
+            //Write the login to print the variable a
+            Console.WriteLine(a);
             
         }
     }
