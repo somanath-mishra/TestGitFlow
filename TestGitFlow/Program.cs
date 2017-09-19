@@ -12,8 +12,9 @@ namespace TestGitFlow
         string name = "Kashinath sahoo";
         static void Main(string[] args)
         {
-            //Write the login to print the variable a
-            Console.WriteLine(a);
+
+            Console.WriteLine("abd");
+            
         }
     }
 }
